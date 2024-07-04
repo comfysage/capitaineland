@@ -1,0 +1,4 @@
+name = capitaineland
+description = a cursor theme inspired by KDE breeze
+version = 0.1
+cursors_directory = hyprcursors
